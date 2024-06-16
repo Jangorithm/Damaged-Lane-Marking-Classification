@@ -2,8 +2,11 @@
 차선 훼손 분류 프로젝트
 
 Label
+
 도로 (Road) - 0
+
 훼손된 차선 영역 (Damaged lane area) - 1
+
 정상 차선 영역 (Normal lane area) - 2
 
 
