@@ -2,6 +2,7 @@
 차선 훼손 분류 프로젝트
 
 Label
+![스크린샷 2024-06-16 194719](https://github.com/Jangorithm/Damaged-Lane-Marking-Classification/assets/92138169/e23f9cd5-3a8e-4d4e-9a3c-df69cd83c5f4)
 
 도로 (Road) - 0
 
