@@ -18,6 +18,8 @@ Label
 (However, it struggles to predict damaged lane areas well when including the road background.)
 - 도로 영역 과 훼손된 차선 영역의 특징이 비슷하기에 보완 방법이 필요함
 (This is because the features of the road area and the damaged lane area are similar, necessitating the need for supplementary methods.)
+![Segmentation 예측 이미지 결과](https://github.com/Jangorithm/Damaged-Lane-Marking-Classification/assets/92138169/dcb112e6-d735-45e7-a705-60521e64e788)
+![Segmentation 결과](https://github.com/Jangorithm/Damaged-Lane-Marking-Classification/assets/92138169/ddd24500-74a8-497c-9a23-6cd2f3bcbc45)
 
 
 
